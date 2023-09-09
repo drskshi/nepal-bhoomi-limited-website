@@ -1,5 +1,5 @@
 <?php
 
-$conn = mysqli_connect('localhost','root','','nbl_shop_db') or die('connection failed');
+$conn = mysqli_connect('localhost','root','','') or die('connection failed');
 
 ?>
